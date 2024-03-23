@@ -1,0 +1,27 @@
+{
+  "name": "rerumdolorum",
+  "version": "1.0.0",
+  "description": "A few useful functions for signing ethereum data",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FranciscoWatsica/rerumdolorum.git"
+  },
+  "keywords": [
+    "ethereum",
+    "signature"
+  ],
+  "author": "EstevanWeissnat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoWatsica/rerumdolorum.git/issues"
+  },
+  "homepage": "https://github.com/FranciscoWatsica/rerumdolorum.git",
+  "dependencies": {
+    "ethereumjs-abi": "0.6.5",
+    "ethereumjs-util": "^5.1.1"
+  },
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
